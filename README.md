@@ -1,6 +1,6 @@
 # Tempus Challenge
 
-For this challenge, I was tasked with creating a prototype variant annotation tool for a VCF file. All code for this challenge was written in R. The input file was supplied by Tempus. To run this code, simply download it and open it in R, download the VCF file, and then change the file path name. The resulting output is a .csv file. 
+For this challenge, I was tasked with creating a prototype variant annotation tool for a VCF file. All code for this challenge was written in R, specifically in a markdown file. The input file was supplied by Tempus. To run this code, simply download it and open it in R, download the VCF file, and then change the file path name. The resulting output is a .csv file. 
 
 As a reference, here are the exact instructions: 
 
